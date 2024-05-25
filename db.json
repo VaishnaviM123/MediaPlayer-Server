@@ -1,0 +1,158 @@
+{
+  "videos": [
+    {
+      "title": "Jhoome Jo Pathaan",
+      "coverImg": "https://i.ytimg.com/vi/AU9AdGIdWZs/maxresdefault.jpg",
+      "url": "https://www.youtube.com/embed/YxWlaYCA8MU",
+      "id": 1
+    },
+    {
+      "title": "Aankhein Khuli Song",
+      "coverImg": "https://c.saavncdn.com/104/Mohabbatein-Hindi-2000-20190329182220-500x500.jpg",
+      "url": "https://www.youtube.com/embed/eM8Mjuq4MwQ",
+      "id": 2
+    },
+    {
+      "title": "Chammak Challo",
+      "coverImg": "https://i.ytimg.com/vi/oAVhUAaVCVQ/mqdefault.jpg",
+      "url": "https://www.youtube.com/embed/oAVhUAaVCVQ",
+      "id": 3
+    },
+    {
+      "title": "Mr Bean",
+      "coverImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Atkinson_Rowan.jpg/800px-Atkinson_Rowan.jpg",
+      "url": "https://www.youtube.com/embed/a_tKTLyOS6Y",
+      "id": 4
+    },
+    {
+      "title": "illuminalty",
+      "coverImg": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/88/4e/29/884e290c-29ed-25d5-7b25-243b89097220/cover.jpg/1200x1200bb.jpg",
+      "url": "https://www.youtube.com/embed/tOM-nWPcR4U",
+      "id": 5
+    },
+    {
+      "title": "Jaada",
+      "coverImg": "https://thesouthfirst.com/wp-content/uploads/2024/02/Jada-song-from-Aavesham-out.jpg",
+      "url": "https://www.youtube.com/embed/HUAAYwtusLI",
+      "id": 6
+    },
+    {
+      "title": "aarmadham",
+      "coverImg": "https://i.ytimg.com/vi/bB__yld6gU8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/embed/HkvVaj_28C8",
+      "id": 7
+    },
+    {
+      "title": "Mathapithakkale",
+      "coverImg": "https://media.assettype.com/reporterlive/2024-04/1970c7f4-3084-4ed4-8537-740c8a850607/mathapithakale_mapp.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+      "url": "https://www.youtube.com/embed/weaAHSGR-7A",
+      "id": 8
+    },
+    {
+      "title": "Reminded me",
+      "coverImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVWfwPGRqM5lHhqWmVdzhRcukLZGe7V-DOkBiT2qoYkA&s",
+      "url": "https://www.youtube.com/embed/ICI3eKRzr6M",
+      "id": 9
+    },
+    {
+      "title": "Rathamaarey",
+      "coverImg": "https://i.ytimg.com/vi/nDJ8KgjlzYM/maxresdefault.jpg",
+      "url": "https://www.youtube.com/embed/nDJ8KgjlzYM",
+      "id": 10
+    },
+    {
+      "title": "K For Kalyanam - Guruvayoorambala Nadayil ",
+      "coverImg": "https://i.postimg.cc/fbXXP8PT/Screenshot-2024-05-14-185622.png",
+      "videoUrl": "https://www.youtube.com/embed/wupHz8BTSm8",
+      "id": 11
+    }
+  ],
+  "categories": [
+    {
+      "categoryName": "Trending",
+      "videoList": [
+        {
+          "title": "Jaada",
+          "coverImg": "https://thesouthfirst.com/wp-content/uploads/2024/02/Jada-song-from-Aavesham-out.jpg",
+          "url": "https://www.youtube.com/embed/HUAAYwtusLI",
+          "id": 6
+        },
+        {
+          "title": "illuminalty",
+          "coverImg": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/88/4e/29/884e290c-29ed-25d5-7b25-243b89097220/cover.jpg/1200x1200bb.jpg",
+          "url": "https://www.youtube.com/embed/tOM-nWPcR4U",
+          "id": 5
+        }
+      ],
+      "id": 1
+    },
+    {
+      "categoryName": "Comedy",
+      "videoList": [
+        {
+          "title": "Mr Bean",
+          "coverImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Atkinson_Rowan.jpg/800px-Atkinson_Rowan.jpg",
+          "url": "https://www.youtube.com/embed/a_tKTLyOS6Y",
+          "id": 4
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "histories": [
+    {
+      "title": "illuminalty",
+      "dateTime": "2024/05/11 08:35:30 PM",
+      "videoUrl": "https://www.youtube.com/embed/tOM-nWPcR4U",
+      "id": 1
+    },
+    {
+      "title": "Chammak Challo",
+      "dateTime": "2024/05/15 08:58:39 PM",
+      "videoUrl": "https://www.youtube.com/embed/oAVhUAaVCVQ",
+      "id": 3
+    },
+    {
+      "title": "illuminalty",
+      "dateTime": "2024/05/22 05:19:45 PM",
+      "videoUrl": "https://www.youtube.com/embed/tOM-nWPcR4U",
+      "id": 6
+    },
+    {
+      "title": "Jaada",
+      "dateTime": "2024/05/22 08:44:33 PM",
+      "videoUrl": "https://www.youtube.com/embed/HUAAYwtusLI",
+      "id": 7
+    },
+    {
+      "title": "Mr Bean",
+      "dateTime": "2024/05/22 08:44:48 PM",
+      "videoUrl": "https://www.youtube.com/embed/a_tKTLyOS6Y",
+      "id": 8
+    },
+    {
+      "title": "Jhoome Jo Pathaan",
+      "dateTime": "2024/05/22 08:46:31 PM",
+      "videoUrl": "https://www.youtube.com/embed/YxWlaYCA8MU",
+      "id": 9
+    },
+    {
+      "title": "Reminded me",
+      "dateTime": "2024/05/22 08:46:40 PM",
+      "videoUrl": "https://www.youtube.com/embed/ICI3eKRzr6M",
+      "id": 10
+    },
+    {
+      "title": "Mr Bean",
+      "dateTime": "2024/05/23 10:26:31 AM",
+      "videoUrl": "https://www.youtube.com/embed/a_tKTLyOS6Y",
+      "id": 12
+    },
+    {
+      "title": "Mr Bean",
+      "dateTime": "2024/05/24 08:52:07 PM",
+      "videoUrl": "https://www.youtube.com/embed/a_tKTLyOS6Y",
+      "id": 13
+    }
+  ]
+}
